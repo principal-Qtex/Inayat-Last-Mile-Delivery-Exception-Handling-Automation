@@ -1,0 +1,16 @@
+# API keys & Configuration
+config.json
+.env
+
+# Temporary customer state / memory
+customer_memory.json
+
+# Cache & Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Vector databases / storage (if applicable)
+chroma_db/
+vectorstore/
